@@ -1,0 +1,14 @@
+# Local virtual environment
+.venv/
+venv/
+ENV/
+
+# Match any .env file anywhere
+**/.env
+.env
+*.env
+
+# VS Code layout
+.vscode/
+.DS_Store
+Thumbs.db
